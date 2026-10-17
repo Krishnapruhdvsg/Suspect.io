@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Suspect.io — Spot the Mole",
+  "short_name": "Suspect.io",
+  "description": "A fast word bluffing game for friends, each on their own phone.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#211237",
+  "theme_color": "#271641",
+  "icons": [
+    {"src":"/assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
